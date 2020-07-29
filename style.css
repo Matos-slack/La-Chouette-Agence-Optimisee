@@ -11,6 +11,10 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    font-size: 1.2em;
+}
+.col-sm-4, li{
+    padding: 5px;
 }
 
 a:hover {
@@ -677,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
