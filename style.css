@@ -95,6 +95,7 @@ a:hover {
 }
 .keywords{
     color: #424242;
+    margin-bottom: 15px;
 }
 .texture-paper::before {
     background: url("img/texture-paper.png");
@@ -709,7 +710,9 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
-
+.social p{
+    display: none;
+}
 h2 {
     font-size: 15px;
     text-transform: uppercase;
