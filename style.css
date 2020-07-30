@@ -288,6 +288,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    margin-bottom: 20px;
 }
 
 #bloc-1-hero h1 {
@@ -707,12 +708,10 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    max-width: 1000px;
+    margin: auto;
 }
-.social p{
-    display: none;
-}
+
 h2 {
     font-size: 15px;
     text-transform: uppercase;
