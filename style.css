@@ -840,7 +840,9 @@ h4 {
 .presentation {
     font-size: 1.5em;
 }
-
+.sign {
+    color: #666666;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
