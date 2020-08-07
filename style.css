@@ -672,7 +672,8 @@ a {
 }
 .partner {
     font-size: 1.2em;
-    color: #FFF;
+    color: #424242;
+    text-decoration: underline;
 }
 .hero-bloc-text-sub {
     font-size: 36px;
