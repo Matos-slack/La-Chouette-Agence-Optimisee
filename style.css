@@ -777,7 +777,7 @@ h4 {
 }
 
 .bold-link {
-    font-weight: 900;
+    font-weight: 700;
     text-decoration: underline!important;
 }
 
@@ -834,7 +834,13 @@ h4 {
 .bg-dots-bg {
     /* background-image: url("./css/img/dots-bg.png"); */
 }
-
+.titlecompany {
+    font-weight: normal;
+}
+.navlink {
+    font-weight: 500;
+    font-size: 18px;
+}
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
 }
