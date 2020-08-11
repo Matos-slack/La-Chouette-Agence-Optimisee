@@ -478,7 +478,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -722,7 +722,12 @@ p {
     max-width: 800px;
     margin: auto auto auto auto;
 }
-
+a:focus {
+    border: 2px solid black;
+}
+button:focus {
+    border: 2px solid black;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
