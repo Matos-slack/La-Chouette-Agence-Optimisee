@@ -715,9 +715,9 @@ p {
 .foot {
     list-style-position: inside;
 }
-/* .logo {
+.logo {
     height: 50px;
-} */
+}
 .social {
     max-width: 800px;
     margin: auto auto auto auto;
